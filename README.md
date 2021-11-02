@@ -5,7 +5,7 @@
 - [First Tech Robotics Challenge 🥳](https://github.com/meisels/FtcRobotController2022)
 - [Thoughtfloat](https://github.com/meisels/thoughtfloat) - Shut down due to lack of security
 
-### Discord Stuff:
+#### Discord Stuff:
 - [Discord Batch Upload](https://github.com/meisels/Discord-Batch-Upload) - Upload all files in a folder to Discord (this is against the TOS and I'd advise not doing this)
 - [Discord Channel Shortcutter](https://github.com/meisels/discord-channel-shortcutter) - Create a desktop shortcut to open Discord to a specific channel/dm (desktop client only)
 
