@@ -9,6 +9,7 @@
 - [Discord Channel Shortcutter](https://github.com/imaperson1060/discord-channel-shortcutter) - Create a desktop shortcut to open Discord to a specific channel/dm (desktop client only)
 
 #### Stupid Junk:
+- [Minecraft Server Runner](https://github.com/imaperson1060/minecraftServerRunner) - Run a Minecraft server quickly and easily. (idk either, I'm bored)
 - [Henry Stickmin Collection Save Loader](https://github.com/imaperson1060/HS-Save-Loader)
 - [Flash Shared Object Parser](https://github.com/imaperson1060/Flash-SharedObject-Parser) - Read Flash save files (AMF0) in C#
 
