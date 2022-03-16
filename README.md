@@ -20,4 +20,4 @@
 - [5beam](https://5beam.5blevels.com) - [GitHub](https://github.com/imaperson1060/5beam) - Ripped off from @Zolo101 (https://github.com/Zolo101/5beam)
 - [5beam-desktop](https://5beam.5blevels.com/player) - [GitHub](https://github.com/imaperson1060/5beam-desktop) - Desktop client for 5beam
 
-[![Bad Coder's github stats](https://github-readme-stats.vercel.app/api?username=imaperson1060&theme=radical)](https://github.com/meisels)
+[![Bad Coder's github stats](https://github-readme-stats.vercel.app/api?username=imaperson1060&theme=radical)](https://github.com/imaperson1060)
