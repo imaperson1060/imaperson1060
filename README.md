@@ -2,6 +2,7 @@
 
 #### Stuff I'm doing:
 - [My website](https://arimeisels.com) - [GitHub](https://github.com/imaperson1060/arimeisels.com)
+- [YouTube Dislikes Restorer](https://github.com/imaperson1060/ytDislikesRestorer) - Second YouTube TOS violation! 🥳
 - [Thoughtfloat](https://github.com/imaperson1060/thoughtfloat) - Shut down due to lack of security
 
 #### Discord Stuff:
