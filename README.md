@@ -11,7 +11,7 @@
 - [FTC 2021/22](https://github.com/imaperson1060/Ftc22) - First Tech Challenge 2021/22 (Freight Frenzy)
 
 ### Android Apps:
-- [WearOS DataLayer Demo]([https://github.com/imaperson1060/](https://github.com/imaperson1060/WearOS-DataLayer-Demo) - A demo for Android × WearOS communication
+- [WearOS DataLayer Demo](https://github.com/imaperson1060/WearOS-DataLayer-Demo) - A demo for Android × WearOS communication
 
 #### Discord Stuff:
 - [Discord Batch Upload](https://github.com/imaperson1060/Discord-Batch-Upload) - Upload all files in a folder to Discord (this is against the TOS and I'd advise not doing this)
