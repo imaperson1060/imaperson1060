@@ -4,8 +4,6 @@
 ### Stuff I'm doing:
 - [My website](https://imaperson.dev) - [GitHub](https://github.com/imaperson1060/imaperson.dev)
 - [Limelight](https://github.com/imaperson1060/limelight) - [npm](https://npm.im/limelightdb) - A lightweight local database
-- [YouTube Dislikes Restorer](https://github.com/imaperson1060/ytDislikesRestorer) - Second YouTube TOS violation! 🥳
-- [Thoughtfloat](https://github.com/imaperson1060/thoughtfloat) - Shut down due to lack of security
 
 ### First Tech Challenge:
 - [FTC 2022/23](https://github.com/imaperson1060/Ftc23) - First Tech Challenge 2022/23 (Power Play)
