@@ -6,8 +6,8 @@
 - [Limelight](https://github.com/imaperson1060/limelight) - [npm](https://npm.im/limelightdb) - A lightweight local database
 
 ### First Tech Challenge:
-- [FTC 2022/23](https://github.com/imaperson1060/Ftc23) - First Tech Challenge 2022/23 (Power Play)
-- [FTC 2021/22](https://github.com/imaperson1060/Ftc22) - First Tech Challenge 2021/22 (Freight Frenzy)
+- [FTC 2022/23](https://github.com/imaperson1060/Ftc22) - First Tech Challenge 2022/23 (PowerPlay)
+- [FTC 2021/22](https://github.com/imaperson1060/Ftc21) - First Tech Challenge 2021/22 (Freight Frenzy)
 
 ### Android Apps:
 - [WearOS DataLayer Demo](https://github.com/imaperson1060/WearOS-DataLayer-Demo) - A demo for Android × WearOS communication
