@@ -4,6 +4,7 @@
 ### Stuff I'm doing:
 - [My website](https://imaperson.dev) - [GitHub](https://github.com/imaperson1060/imaperson.dev)
 - [Limelight](https://github.com/imaperson1060/limelight) - [npm](https://npm.im/limelightdb) - A lightweight local database
+- [Advent of Code](https://adventofcode.com) - [GitHub](https://github.com/imaperson1060/adventOfCode)
 
 ### First Tech Challenge:
 - [FTC 2023/24](https://github.com/imaperson1060/ftc/tree/2023/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - First Tech Challenge 2023/24 (Centerstage)
