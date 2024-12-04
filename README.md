@@ -6,9 +6,9 @@
 - [advent of code](https://adventofcode.com) - [repo](https://github.com/imaperson1060/adventOfCode)
 
 ### first tech challenge:
-- [ftc 2024/25](https://github.com/imaperson1060/ftc/tree/2024/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - into the deep, #notmywatergame 💧🌊
-- [ftc 2023/24](https://github.com/imaperson1060/ftc/tree/2023/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - centerstage
-- [ftc 2022/23](https://github.com/imaperson1060/ftc/tree/2022/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - powerplay
+- [ftc 2024/25](https://github.com/RambamRambotsFTC/ftc22-24/tree/2024/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - into the deep, #notmywatergame 💧🌊
+- [ftc 2023/24](https://github.com/RambamRambotsFTC/ftc22-24/tree/2023/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - centerstage
+- [ftc 2022/23](https://github.com/RambamRambotsFTC/ftc22-24/tree/2022/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - powerplay
 - [ftc 2021/22](https://github.com/imaperson1060/Ftc21/tree/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - freight frenzy
 
 ### android dev:
