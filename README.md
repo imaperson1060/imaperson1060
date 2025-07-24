@@ -4,6 +4,8 @@
 ### stuff i'm doing:
 - [website](https://imaperson.dev) - [repo](https://github.com/imaperson1060/imaperson.dev)
 - [advent of code](https://adventofcode.com) - [repo](https://github.com/imaperson1060/adventOfCode)
+- [timer mod](https://timermod.imaperson.dev) - [repo](https://github.com/imaperson1060/HTML5b/tree/timermod) - a [BFDIA 5b](https://coppersalts.github.io/HTML5b) mod adding advanced timing capabilities
+  - there's also a legacy [flash version](https://github.com/imaperson1060/bfdia5b/tree/timermod) - this is approved for speedruns!! :)
 
 ### first tech challenge:
 - [ftc 2024/25](https://github.com/RambamRambotsFTC/ftc22-24/tree/2024/TeamCode/src/main/java/org/firstinspires/ftc/teamcode) - into the deep, #notmywatergame 💧🌊
